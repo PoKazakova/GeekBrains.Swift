@@ -22,7 +22,7 @@ p = d+e+f//периметр
 print (f,s,p)
 //задание 3: * Пользователь вводит сумму вклада в банк и годовой процент. Найти сумму вклада через 5 лет.
 let summ, persent, deposit: Double
-summ = 10000
+summ = 100000
 persent = 8
 deposit = 5
 
